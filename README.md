@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hello there, you can call me Deni 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=React\Vue+Developer)](https://git.io/typing-svg)
 
+### You can contact here
+[![telegram](https://img.shields.io/badge/Telegram-384754?style=for-the-badge&logo=Telegram)](https://t.me/eastman_deni)
+
+### Used Languages Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastman19deni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **eastman19deni/eastman19deni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
